@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "fancy-sound-2439",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "23000981-29c8-4740-8669-4039a8539262",
+      "database_name": "fancy-sound-2439-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
